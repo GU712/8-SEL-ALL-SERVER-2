@@ -6,10 +6,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FILMES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] FILMES[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F743cyX/STAR-WARS-FILM.png" group-title="[COLOR orange][B] FILMES[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg" group-title="[COLOR white][B] ANTOLOGIA [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F743cyX/STAR-WARS-FILM.png" group-title="[COLOR white][B] ANTOLOGIA [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jAMEX0syUh6sbjBiysibzrFpbo.jpg" group-title="[COLOR white][B] ANTOLOGIA [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Han Solo Uma Historia Star Wars (2018)[/B][/COLOR]
@@ -20,7 +20,7 @@ http://b5.vc:80/movie/elaine123/123elaine/20218.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg" group-title="[COLOR white][B] TRILOGIA 2 (1999 a 2005) [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F743cyX/STAR-WARS-FILM.png" group-title="[COLOR white][B] TRILOGIA 2 (1999 a 2005) [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcZKWW6V20rhk7ic0NPi5RWyyPu.jpg" group-title="[COLOR white][B] TRILOGIA 2 (1999 a 2005) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Star Wars - A Ameaça Fantasma (1999)[/B][/COLOR]
@@ -34,7 +34,7 @@ http://b5.vc:80/movie/elaine123/123elaine/21352.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg" group-title="[COLOR white][B] TRILOGIA 1 (1977 a 1980) [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F743cyX/STAR-WARS-FILM.png" group-title="[COLOR white][B] TRILOGIA 1 (1977 a 1980) [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5G8CV8iJeG1Q0WFiB1ghreJ8qd.jpg" group-title="[COLOR white][B] TRILOGIA 1 (1977 a 1980) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Star Wars - Uma Nova Esperança (1977)[/B][/COLOR]
@@ -48,7 +48,7 @@ http://b5.vc:80/movie/elaine123/123elaine/21355.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg" group-title="[COLOR white][B] TRILOGIA 3 (2015 a 2020) [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F743cyX/STAR-WARS-FILM.png" group-title="[COLOR white][B] TRILOGIA 3 (2015 a 2020) [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5UvIBygHg3FJari4tdxzqa1Yemx.jpg" group-title="[COLOR white][B] TRILOGIA 3 (2015 a 2020) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Star Wars: O Despertar da Força (2015)[/B][/COLOR]
@@ -64,7 +64,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 SÉRIES
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] SÉRIES[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hydYQW/STAR-WARS-SER.png" group-title="[COLOR orange][B] SÉRIES[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vA3lvL3VlNLlj246xS4jp1nT9i2.jpg" group-title="[COLOR white][B] Star Wars: A Guerra dos Clones [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]

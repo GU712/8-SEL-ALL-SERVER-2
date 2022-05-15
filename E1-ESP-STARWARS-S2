@@ -406,167 +406,42 @@ http://b5.vc:80/series/elaine123/123elaine/148480.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kaglJdFMBQA8vqwg55bUUalv7jh.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jmgR8330sKEJehr27rQ3bODnrlP.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Fagulha de Rebelião [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Fagulha de Rebelião[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104629.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Droides em Apuros [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Droides em Apuros[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104630.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Caça Rebelled [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white] O Caça Rebelled[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104631.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Ascensão dos Velhos Mestres [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white] A Ascensão dos Velhos Mestres[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104632.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Quebra de Hierarquia [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white] Quebra de Hierarquia[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104633.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Vindos da Escuridão [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white] Vindos da Escuridão[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104634.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Dia do Império [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white] Dia do Império[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104635.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reunindo Forças [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white] Reunindo Forças[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104636.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Caminho de Jedi [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white] O Caminho de Jedi[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104637.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Mão do Idiota [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white] A Mão do Idiota[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104638.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Visão de Esperança [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white] Visão de Esperança[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104639.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Chamada Para A Ação [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Chamada Para A Ação[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104640.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Decisão Rebelde [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Decisão Rebelde[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104641.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Tiroteio Pela Galáxia [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white] Tiroteio Pela Galáxia[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/104642.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]TEMP 02[/B][/COLOR]
-LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E00[COLOR yellow] -> [COLOR white]O Cerco a Lothal [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104643.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Os Comandantes Perdidos [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104644.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Relíquias da Velha República [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104645.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Há Sempre Dois [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104646.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Irmandade do Chifre Quebrado [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104647.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]As Asas do Mestre [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104648.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Irmãs de Sangue [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104649.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Ataque Furtivo [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104650.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Futuro da Força [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104651.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]O Legado [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104652.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]A Princesa em Lothal [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104653.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]O Protetor do Vale da Concórdia [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104654.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]A Lenda de Lasan [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104655.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]O Chamado [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104656.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]O Retorno Para Casa [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104657.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Os Honrados [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104658.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Mortalha das Trevas  [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104659.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Droid Esquecido [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104660.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]O Mistério Base Chopper [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104661.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]O Crepúsculo do Aprendiz (Parte 1) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104662.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bbGPmGzeEU2cPNWvsgrHP7ZhVwf.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]O Crepúsculo do Aprendiz (Parte 2) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104663.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]TEMP 03[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w36NLkBXybWRPAANPfOPJhaAMRW.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Passos Para a Escuridão [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104664.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Os Holocrons do Destino [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104665.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]A Extração Das Antilhas [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104666.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Os Heróis de Hera [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104667.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]A Última Batalha [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104668.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Supercomandos Imperiais [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104669.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Esquadrão de Ferro [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104670.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]O Trabalho em Wynkahthu [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104671.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]O Infiltrado [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104672.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Visões e Vozes [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104673.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Fantasmas de Geonosis (Parte 1) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104674.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Fantasmas de Geonosis (Parte 2) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104675.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]A Ogiva [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104676.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]As Provas do Sabre Negro [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104677.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Legado de Mandalore [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104678.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Através dos Olhos Imperiais [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104679.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Carga Secreta [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104680.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]O Droid Espião [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104681.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Sóis Gêmeos [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104682.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Zero Hora (Parte 1) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104683.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6m2wwQQ0NmCvArubRAEmKJK0chj.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Zero Hora (Parte 2) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104684.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]TEMP 04[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Os Heróis de Mandalore (Parte 1) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104685.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Os Heróis de Mandalore (Parte 2) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104686.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Em Nome da Rebelião (Parte 1) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104687.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Em Nome da Rebelião (Parte 2) [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104688.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]A Ocupação [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104689.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]O Voo do Defensor [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104690.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Parentesco [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104691.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Rastejador Minerador [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104692.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Ataque Rebelde [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104693.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Noite Jedi [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104694.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]DUME [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104695.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Lobos e uma Porta [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104696.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Um Mundo Entre os Mundos [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104697.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Uma Tola Esperança [/B][/COLOR]
-http://b5.vc:80/series/elaine123/123elaine/104698.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2vOXu4zmr46dTYznuFujkNKWJOl.jpg" group-title="[COLOR white][B] Star Wars: Rebels [/B][/COLOR]",[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]O Reencontro de uma Família e uma Despedida [/B][/COLOR]
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 

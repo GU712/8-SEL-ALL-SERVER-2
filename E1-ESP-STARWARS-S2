@@ -575,26 +575,39 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116836.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116837.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituições [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituições [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116838.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116839.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroço [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroço [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116840.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Descomissionado [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Descomissionado [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116841.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cicatrizes de Batalha [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cicatrizes de Batalha [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116842.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reunião [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reunião [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116843.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Recompensa Perdida [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Recompensa Perdida [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116844.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fCVyqfPafwEOL1Askyr9PeFJDqx.jpg" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Terreno Comum [/B][/COLOR]
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Terreno Comum [/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/116845.mp4
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Acordo do Diabo [/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/116846.mp4
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Resgate em Ryloth [/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/116847.mp4
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Infestado [/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/116848.mp4
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manto de Guerra [/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/116849.mp4
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Retorno a Kamino (Final Parte 1) [/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/120567.mp4
+#EXTINF:-1 tvg-logo="<ICONE1>" group-title="[COLOR white][B] Star Wars: The Bad Batch [/B][/COLOR]",[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Retorno a Kamino (Final Parte 2) [/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/120641.mp4
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 

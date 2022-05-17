@@ -2135,7 +2135,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnTS1Gx/NVLS-SERV-2.png" group-title="[COLOR white][B] Senhora do Destino [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fFX6aQfncUw0EmKezUTDTUp0OfZ.jpg" group-title="[COLOR white][B] Senhora do Destino [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Senhora do Destino[/B][/COLOR]FAT
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fFX6aQfncUw0EmKezUTDTUp0OfZ.jpg" group-title="[COLOR white][B] Senhora do Destino [/B][/COLOR]",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Senhora do Destino[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/56132.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fFX6aQfncUw0EmKezUTDTUp0OfZ.jpg" group-title="[COLOR white][B] Senhora do Destino [/B][/COLOR]",[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Senhora do Destino[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/56133.mp4

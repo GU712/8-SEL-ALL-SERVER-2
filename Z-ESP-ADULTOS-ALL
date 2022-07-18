@@ -2,6 +2,26 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/222x/6e/72/b2/6e72b2589de1d422b69012e40eff2c15.jpg" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7EYPvap9pmjrwI1uOjacipcNZK1.jpg" group-title="[COLOR white][B] ADULTOS - VIOLÊNCIA [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Passeio do Bebe Laser[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151227.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Um Curta Animado Onde Alguns Super Zangados Matam Seus Pais[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151228.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Eu Sou Seu Traficante[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151229.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Boyd do 3D[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151230.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]BFFs - Melhores Amigas[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151231.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Nubio versus Nubia[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151232.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]John e Sun-Hee[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151233.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg" group-title="[COLOR white][B] The Boys Apresenta: Diabólicos (2022) [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Um Mais Um e Igual a Dois[/B][/COLOR]
+http://ccdn.cx:80/series/42suellen/1197647/151234.mp4
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7EYPvap9pmjrwI1uOjacipcNZK1.jpg" group-title="[COLOR white][B] ADULTOS - ERÓTICOS [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
